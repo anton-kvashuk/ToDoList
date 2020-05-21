@@ -1,0 +1,9 @@
+.container {
+    margin: auto;
+    padding: 0;
+    width: 1100px;
+    height: 600px;
+    background-image: url(./img/2442440.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
